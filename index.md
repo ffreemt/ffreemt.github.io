@@ -1,5 +1,4 @@
 ---
-title: mu's github.io
 lang: en-US
 ---
 # Hello World
