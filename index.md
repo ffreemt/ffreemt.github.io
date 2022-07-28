@@ -1,8 +1,8 @@
 ---
-title: Blogging Like a Hacker
+title: mu's github.io
 lang: en-US
 ---
-# Hello VitePress
+# Hello World
 ...
 ::: info
 This is an info box.
