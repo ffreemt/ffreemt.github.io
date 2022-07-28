@@ -1,4 +1,4 @@
 export default {
-  title: 'mu\'s gthub.io page',
+  title: 'mu\'s github.io page',
   description: 'Just playing around.'
 }
